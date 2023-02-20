@@ -15,3 +15,7 @@ class StringBuilder
         return @str
     end
 end
+
+puts add("Stephen Dickens")
+
+
